@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Perret_MelissaMarie\Epreuves\POBJ\Ex_8\.metadata\.plugins\org.eclipse.jdt.core
+3637034293.index
+1865797976.index

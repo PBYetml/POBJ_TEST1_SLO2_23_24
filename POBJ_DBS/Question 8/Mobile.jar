@@ -1,0 +1,84 @@
+// FILE: C:/Users/dambignens/Documents/Nouveau dossier//Mobile.cs
+
+// In this section you can add your own using directives
+    // section 10--28--98-90--27d3646:18bf0f92f7a:-8000:0000000000000C65 begin
+    // section 10--28--98-90--27d3646:18bf0f92f7a:-8000:0000000000000C65 end
+
+/// <summary>
+    ///  A class that represents ...
+    /// 
+    ///  @see OtherClasses
+    ///  @author your_name_here
+     /// </summary>
+public class Mobile
+{
+    // Attributes
+
+    protected byte posX;
+
+    protected byte posY;
+
+    protected float vitesseX;
+
+    protected float vitesseY;
+
+    protected bool Vehicule;
+
+    // Associations
+
+    /// <summary> 
+    /// </summary>
+    public ArrayList  my;
+
+    /// <summary> 
+    /// </summary>
+    public ArrayList  my Generator;
+
+    // Operations
+
+    /// <summary>
+    ///  An operation that does...
+    /// 
+    ///  @param firstParam a description of this parameter
+    /// </summary>
+    /// <param name="cara">
+    /// </param>
+    /// <param name="entier">
+    /// </param>
+    /// <returns>
+    /// </returns>
+     sealed public Mobile(String cara, byte entier)
+    {
+    // section 10--28--98-90--27d3646:18bf0f92f7a:-8000:0000000000000E1D begin
+    // section 10--28--98-90--27d3646:18bf0f92f7a:-8000:0000000000000E1D end
+
+    }
+
+    /// <summary>
+    ///  An operation that does...
+    /// 
+    ///  @param firstParam a description of this parameter
+    /// </summary>
+    /// <returns>
+    /// </returns>
+     sealed private byte ChoixVitesse()
+    {
+    // section 10--28--98-90--6290469b:18d11424f55:-8000:0000000000000C7A begin
+    // section 10--28--98-90--6290469b:18d11424f55:-8000:0000000000000C7A end
+
+    }
+
+    /// <summary>
+    ///  An operation that does...
+    /// 
+    ///  @param firstParam a description of this parameter
+    /// </summary>
+    /// <returns>
+    /// </returns>
+     sealed public  bool Run()
+    {
+    // section 10--28--98-90--6290469b:18d11424f55:-8000:0000000000000C7F begin
+    // section 10--28--98-90--6290469b:18d11424f55:-8000:0000000000000C7F end
+
+    }
+} /* end class Mobile */
