@@ -7,6 +7,8 @@ public class Mobile
     protected float vitesseX;
     protected float vitesseY;
 
+    protected boolean Vehicule;
+
     public final void Mobile( char Param1, byte autreParam)
     {
         char par1 = Param1;
