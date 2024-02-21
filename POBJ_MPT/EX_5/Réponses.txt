@@ -1,0 +1,4 @@
+1 ) Non le type float n'a aucun sens, en effet je n'avais pas bien compris la question, mais en relisant tranquillement j'ai pu remarqué 
+que le bon type était le bool pour avoir soit "0" soit "1". 
+
+2 ) Pour la visinilité de la méthode j'aurai dû mettre soit en "public" soit en "protected " comme ça tout le monde peut avoir accès à la classe 

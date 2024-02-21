@@ -1,0 +1,4 @@
+1 ) Est-ce que le type float a du sens (je crois?) pour ces 2 attributs ? 
+
+2) Visibilité de la méthode ? public ? private ? protected ?
+
