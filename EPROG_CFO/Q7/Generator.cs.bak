@@ -10,15 +10,14 @@
     ///  @see OtherClasses
     ///  @author your_name_here
      /// </summary>
-public  class Generator
+public  final class Generator
 {
     // Attributes
 
-    private ulong Generator_frequency;
+    private int Generator_frequency;
 
-    private double Generator_amplitude;
+    private float Generator_amplitude;
 
-    private decimal erreurCalcul;
     // Associations
 
     /// <summary> 
@@ -33,11 +32,10 @@ public  class Generator
     /// </summary>
     /// <returns>
     /// </returns>
-     sealed public  decimal CalculateSignalPoints()
+     sealed public  double CalculateSignalPoints()
     {
-         
     // section 10--28--98-74-6899e191:18d112895f4:-8000:0000000000000966 begin
     // section 10--28--98-74-6899e191:18d112895f4:-8000:0000000000000966 end
-        return erreurCalcul
+
     }
 } /* end class Generator */

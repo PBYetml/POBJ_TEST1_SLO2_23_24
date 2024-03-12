@@ -13,13 +13,13 @@
 public class User
 {
     // Associations
-   
+
     /// <summary> 
     /// </summary>
     public ArrayList  myGenerator;
-    
+
     // Operations
-    
+
     /// <summary>
     ///  An operation that does...
     /// 
@@ -33,11 +33,10 @@ public class User
     /// </param>
     /// <returns>
     /// </returns>
-     sealed public  bool GeneratorConfigure(ulong freq,double amp,String signalType)
+     sealed public  void GeneratorConfigure(int freq, float amp, String signalType)
     {
-        public bool erreur;
     // section 10--28--98-74-6899e191:18d112895f4:-8000:0000000000000D3B begin
     // section 10--28--98-74-6899e191:18d112895f4:-8000:0000000000000D3B end
-    return erreur
+
     }
 } /* end class User */
