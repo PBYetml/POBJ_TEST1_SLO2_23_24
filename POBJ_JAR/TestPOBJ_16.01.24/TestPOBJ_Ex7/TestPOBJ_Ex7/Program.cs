@@ -6,10 +6,15 @@ namespace EX7
     class Generator
     {
         // Attributs
-        private long frequency;
-        private float amplitude;
+        private ulong frequency;
+        private double amplitude;
         // Méthodes
-        public double CalculateSignalPoints() { }
+        public decimal CalculateSignalPoints() 
+        {
+            decimal varRetour = 0;
+
+            return varRetour;
+        }
         public Generator() { }
     }
     class User
@@ -17,7 +22,12 @@ namespace EX7
         // Attributs
 
         // Méthodes
-        public bool GeneratorConfigure(int freq, float amp, String signalType) { }
+        public bool GeneratorConfigure(ulong freq, double amp, String signalType) 
+        {
+            bool erreur = false;
+
+            return erreur;
+        }
         public User() { }
     }
 }
