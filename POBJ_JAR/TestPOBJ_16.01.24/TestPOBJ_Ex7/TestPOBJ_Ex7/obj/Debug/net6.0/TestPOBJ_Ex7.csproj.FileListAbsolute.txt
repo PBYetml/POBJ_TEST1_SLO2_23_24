@@ -1,0 +1,5 @@
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Affolter_Jeremy\Epreuve\POBJ\TestPOBJ_16.01.24\TestPOBJ_Ex7\TestPOBJ_Ex7\obj\Debug\net6.0\TestPOBJ_Ex7.csproj.AssemblyReference.cache
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Affolter_Jeremy\Epreuve\POBJ\TestPOBJ_16.01.24\TestPOBJ_Ex7\TestPOBJ_Ex7\obj\Debug\net6.0\TestPOBJ_Ex7.GeneratedMSBuildEditorConfig.editorconfig
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Affolter_Jeremy\Epreuve\POBJ\TestPOBJ_16.01.24\TestPOBJ_Ex7\TestPOBJ_Ex7\obj\Debug\net6.0\TestPOBJ_Ex7.AssemblyInfoInputs.cache
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Affolter_Jeremy\Epreuve\POBJ\TestPOBJ_16.01.24\TestPOBJ_Ex7\TestPOBJ_Ex7\obj\Debug\net6.0\TestPOBJ_Ex7.AssemblyInfo.cs
+O:\APPLICATIONS\Echanges_Eleves\ES\SLO2\Affolter_Jeremy\Epreuve\POBJ\TestPOBJ_16.01.24\TestPOBJ_Ex7\TestPOBJ_Ex7\obj\Debug\net6.0\TestPOBJ_Ex7.csproj.CoreCompileInputs.cache
