@@ -1,0 +1,54 @@
+
+////////EX7////////////////
+
+
+public class Generator {
+
+	private unsigned int frequency;
+		
+	private unsigned int amplitude;
+
+	public unsigned long CalculateSignalPoints() {
+
+	}
+}
+
+
+public class User {
+
+	Generator myGenerator = new Generator();
+
+	public bool GeneratorConfigure(int freq, float amp, string signalType) {
+
+	}
+}
+
+
+
+//////////////EX8////////////////
+
+
+public class Mobile {
+
+ public Mobile(char Caractere, byte Octet) {
+	 
+  protected unsigned short posX;
+
+  protected unsigned short posY;
+
+  protected float vitesseX;
+
+  protected float vitesseY;
+
+  protected boolean Vehicule;
+	}
+
+  private float ChoixVitesse() {
+  return 0.0;
+  }
+
+  protected boolean Run() {
+  return true;
+  }
+
+}
